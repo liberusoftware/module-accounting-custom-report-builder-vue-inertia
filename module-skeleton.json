@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-custom-report-builder-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-custom-report-builder",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-custom-report-builder-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/custom-report-builder.md",
+  "presentationPlan": "projects/accounting/vue/custom-report-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
